@@ -1,3 +1,4 @@
+from sklearn.model_selection import learning_curve
 import streamlit as st
 import pandas as pd
 import joblib
